@@ -4,8 +4,7 @@ Welcome to the ICC Men’s T20 World Cup 2024 interactive website! 🎉⚡️ I�
 
 ## ⚡️ Technology Stack
 
-* **Frontend:** HTML, CSS, JavaScript (Vanilla)
-* **Interactivity:** JS for dynamic features and interactivity
+* **Frontend:** HTML, CSS
 * **Media:** Images and Videos to bring the game to life
 
 ---
